@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "7bf3eb0f3b2a1e06",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa3d226713ab50b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "751aa5e5f3e4e776",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "537b853b565a6a6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bf3e6009d30f983",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f32b540e951a3c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8d2de1509e478213",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Pasted image 20250702092523",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e5e58f944e476c8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 439.5024719238281
+  },
+  "right": {
+    "id": "d668c7b22958914e",
+    "type": "split",
+    "children": [
+      {
+        "id": "500dcaa684b3b9fd",
+        "type": "tabs",
+        "dimension": 31.25,
+        "children": [
+          {
+            "id": "d57553eb4fd6e19f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6032052cb04ea836",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "15d825a14b99c8e8",
+        "type": "tabs",
+        "dimension": 31.25,
+        "children": [
+          {
+            "id": "8c302024105aa74d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ac02a496e7b93d88",
+        "type": "tabs",
+        "dimension": 37.5,
+        "children": [
+          {
+            "id": "f01d457aa4b826ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "751aa5e5f3e4e776",
+  "lastOpenFiles": [
+    "androidify/feature-home-HomeScreen.kt.md",
+    "androidify/assets",
+    "androidify/assets/Pasted image 20250702092523.png",
+    "androidify/core-network-startup- FirebaseRemoteConfigInitializer.md",
+    "androidify/feature-home-HomeViewModel.kt.md",
+    "androidify/feature-home-AboutScreen.kt.md",
+    "androidify/feature-camera-base-ZoomState.kt.md",
+    "androidify/feature-camera-base-RearCameraUseCase.kt.md",
+    "androidify/feature-camera-base-CoroutineCameraProvider.kt.md",
+    "androidify/feature-camera-base-CameraViewModel.kt.md",
+    "androidify/feature-camera-base-CameraViewfinder.kt.md",
+    "androidify/feature-camera-base-CameraScreen.kt.md",
+    "androidify/feature-creation-base-CreationScreen.kt.md",
+    "Convention.md",
+    "README.md",
+    "모르는거.md",
+    "질문.md",
+    "androidify/core-util-LayoutUtils.kt.md",
+    "androidify/app-base-MainNavigation.kt.md",
+    "androidify/app-navigation-NavigationRoutes.kt.md",
+    "androidify/core-theme-base-SharedElementsConfig.kt.md",
+    "androidify/df.md",
+    "androidify/core-theme-components-TopAppBar.kt.md",
+    "androidify/core-theme-Theme.kt.md",
+    "androidify/app-AndroidManifest.xml.md",
+    "androidify/app-base-MainActivity.kt.md",
+    "Pasted image 20250702092410.png",
+    "Pasted image 20250702092427.png",
+    "androidify/core-theme-components-Backgrounds.kt.md",
+    "Untitled 1",
+    "androidify/core",
+    "Untitled",
+    "androidify/core/theme",
+    "androidify"
+  ]
+}
